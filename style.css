@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #f9f9f9;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  color: #006666;
+}
+
+#searchBox {
+  width: 60%;
+  padding: 8px;
+  margin: 10px auto;
+  display: block;
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 8px 16px;
+  background: #006666;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#resultado {
+  margin-top: 20px;
+  padding: 10px;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+img {
+  max-width: 300px;
+  display: block;
+  margin: 10px auto;
+}
